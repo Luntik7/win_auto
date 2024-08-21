@@ -1,0 +1,9 @@
+loguru
+numpy
+Pillow
+psutil
+pyperclip
+pywinauto
+random_word
+opencv-python
+pyautogui
